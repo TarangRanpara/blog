@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on Tarang&#39;s Notes</title>
+    <link>https://tarangranpara.github.io/tags/</link>
+    <description>Recent content in Tags on Tarang&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Some copyright notice - [my license](https://github.com/TarangRanpara/TarangRanpara.github.io/blob/main/LICENSE)</copyright><atom:link href="https://tarangranpara.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><icon>https://tarangranpara.github.io/logo.svg</icon>
+    
+  </channel>
+</rss>
