@@ -66,7 +66,7 @@ Live long and prosper! 🖖
 ## Education 
 ---------
 ### M.Tech (ICT) with specialization in Machine Learning
-Dhirubhai Ambani Institute of Information and communication technology (DA-IICT), Gandhinagar
+[Dhirubhai Ambani Institute of Information and communication technology (DA-IICT), Gandhinagar](https://www.daiict.ac.in/)
 
 CGPA - 8.71/10
 
@@ -82,6 +82,6 @@ CGPA - 8.71/10
 
 
 ### B.E. Computer Science
-Gujarat Technological University (GTU), Gandhinagar 
+[Gujarat Technological University (GTU), Gandhinagar](https://www.gtu.ac.in/)
 
 CGPA - 9.28/10

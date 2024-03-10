@@ -16,8 +16,12 @@
         
         
     
-    "articles": [{"date":"0001-01-01","image":"","imageAlt":"","link":"https://tarangranpara.github.io/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://tarangranpara.github.io/search/","summary":"","tags":[],"title":"Search"}],
-    "test": "Manifest   Search   ",
+        
+        
+        
+    
+    "articles": [{"date":"2024-03-10","image":"","imageAlt":"","link":"https://tarangranpara.github.io/about/","summary":"Summary Hello World, Namaste! 🙏\nI\u0026rsquo;m Tarang Ranpara, a Member Technical Staff (SE-2) with the MySQL Runtime team at Oracle, Bangalore, since Aug 2022. I currently contribute to the development of MySQL Server, one of the most popular relational database engines out there, working with systems programming technology stack (C/C++, Pthreads, Linux, CMake, Make).\nBeing an inquisitive person, I believe in what Richard Feynman famously said \u0026ldquo;What I cannot create, I do not understand\u0026rdquo;, and try to create minimal prototypes of things I\u0026rsquo;m trying to learn (mostly related to CS though).","tags":[],"title":"About Me!"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://tarangranpara.github.io/manifest/index.json","summary":"","tags":[],"title":"Manifest"},{"date":"0001-01-01","image":"","imageAlt":"","link":"https://tarangranpara.github.io/search/","summary":"","tags":[],"title":"Search"}],
+    "test": "About Me!   Manifest   Search   ",
     "page": "1",
     "next": ""
 }
