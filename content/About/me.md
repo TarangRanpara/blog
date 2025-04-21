@@ -16,7 +16,7 @@ tags = ["about_me", "who_is_this_guy"]
 
 Namaste, Hello, Hola, I'm **Tarang Ranpara!** 👋
 
-Originally from the beautiful city of Rajkot, Gujarat, India, I now reside in Bangalore, where I continue my professional journey in the world of technology. I currently work with the MySQL Group at Oracle, contributing to one of the most open source database product. I hold a Master’s degree in Machine Learning, which fuels my passion for exploring the intersection of data, intelligence, and innovation. Curiosity drives me — whether it's diving deep into new technologies, understanding complex systems, or simply learning something new every day.
+Originally from the beautiful city of Rajkot, Gujarat, India, I now reside in Bangalore, where I continue my professional journey in the world of technology. I currently work with the MySQL Group at Oracle, contributing to one of the most popular open source database product. I hold a Master’s degree in Machine Learning, which fuels my passion for exploring the intersection of data, intelligence, and innovation. Curiosity drives me — whether it's diving deep into new technologies, understanding complex systems, or simply learning something new every day.
 
 In Albert Einstein's words: 
 
