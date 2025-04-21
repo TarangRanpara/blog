@@ -1,4 +1,35 @@
 baseURL: https://tarangranpara.github.io/
 languageCode: en-us
-title: Tarang's Notes
+title: Bits and Pieces
 theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Tarang Ranpara" # optional default will be site title
+    subtitle: "[Son, Brother, fiancé] | Software Engineer"
+    imageUrl: "/images/Tarang.jpeg" # optional
+    imageTitle: "Tarang Ranpara" # optional
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
+    buttons:
+      - name: About Me
+        url: "/About/me"
+      - name: About This Site
+        url: "/About/site"
+
+  socialIcons: # optional
+    - name: "Linkedin"
+      url: "https://in.linkedin.com/in/tarangranpara"
+    - name: "Github"
+      url: "https://github.com/TarangRanpara"
+
+menu:
+  main:
+    - identifier: Archives
+      name: Archives
+      url: /archives
+      weight: 10
+    - identifier: Tags
+      name: Tags
+      url: tags/
